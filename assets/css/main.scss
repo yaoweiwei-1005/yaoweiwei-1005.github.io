@@ -37,3 +37,17 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ==========================================================================
+   自定义：左上角导航栏的圆形 logo（站名左侧的图片）
+   换 logo 图片时改 _config.yml 里的 masthead_logo 即可
+   ========================================================================== */
+
+img.masthead__avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+  margin: 0 0.45em 4px 0;
+}
