@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ruihan Wang"
-masthead_logo            : "profile.png" # 左上角导航栏的圆形 logo，图片放在 /images/ 目录下；留空则只显示站名不显示图片
+title                    : "Ruihan Wang / 王睿涵"
+masthead_logo            : "sdu-logo.png" # 左上角导航栏的圆形 logo，图片放在 /images/ 目录下；留空则只显示站名不显示图片
 title_separator          : "-"
 name                     : &name "Ruihan Wang"
 description              : &description "Ruihan Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
